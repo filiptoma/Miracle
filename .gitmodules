@@ -1,0 +1,3 @@
+[submodule "Miracle/external/spdlog"]
+	path = Miracle/external/spdlog
+	url = https://github.com/gabime/spdlog.git
