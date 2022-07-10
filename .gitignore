@@ -59,3 +59,6 @@ _deps
 # build dir
 
 build/
+
+# VSCode stuff
+.vscode

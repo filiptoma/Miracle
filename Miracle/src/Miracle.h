@@ -5,4 +5,6 @@
  */
 
 #include "Miracle/Application.h"
+#include "Miracle/Log.h"
+
 #include "Miracle/EntryPoint.h" // entry point
